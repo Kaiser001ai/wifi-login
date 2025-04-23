@@ -1,0 +1,58 @@
+*{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+}
+section{
+    margin: 25px;
+    height: 90%;
+    width: 100%;
+    place-items: center;
+}
+.main{
+    place-items: center;
+    width: 400px;
+    /* border: solid, green, 1px; */
+}
+img{
+    width: 268px;
+    height: 297px;
+}
+.text{
+    margin: 30px 0px 5px 0px;
+    /* border: solid, blue, 2px; */
+}
+
+#NCAT{
+    color: purple;
+}
+.login{
+    text-align: center;
+    width: 100%;
+    padding: 20px 0px 0px 0px;
+    border: solid, gray, 1px;
+}
+#bottom{
+    width: 100%;
+    background-image: url(urlIMG-20250326-WA0103.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.fourth{
+    align-self: right;
+}
+.first{
+    width: 373px;
+    height: 240px;
+    border: 1px solid #cccccc;
+    padding: 0px;
+}
+.one{
+    width: 473px;
+    height: 111px;
+}
+footer{
+    width: 100%;
+    height: 10%;
+    text-align: center;
+}
